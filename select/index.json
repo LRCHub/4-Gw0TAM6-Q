@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "三代目 J SOUL BROTHERS from EXILE TRIBE / 「R.Y.U.S.E.I.」Music Video",
+  "base_artist": "三代目 J Soul Brothers from EXILE TRIBE",
+  "createdAt": "2025-12-17T03:51:43.906654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BURNING UP -三代目 J Soul Brothers version-",
+      "artist": "三代目 J SOUL BROTHERS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/01_BURNING_UP_-三代目_J_Soul_Brothers_version-_三代目_J_SOUL_BROTHERS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三代目 J Soul Brothers from EXILE TRIBE / MUGEN ROAD",
+      "artist": "EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/pl_01_三代目_J_Soul_Brothers_from_EXILE_TRIBE___MUGEN_ROAD_EXILE_TRIBE.txt"
+    }
+  ]
+}
