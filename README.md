@@ -1,71 +1,84 @@
-# 三代目 J Soul Brothers from EXILE TRIBE – 三代目 J SOUL BROTHERS from EXILE TRIBE / 「R.Y.U.S.E.I.」Music Video
+# 三代目 J SOUL BROTHERS from EXILE TRIBE – BURNING UP -三代目 J Soul Brothers version-
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-(Hey)フルスロットル
-鳴響(ひび)く轟音(ごうおん)
-ど派手に上げろ狼煙(のろし)
-(Yeah)限りなく続く
-一本道(みち)を進む無限の旅路
-この世は争いばかり
-逃げれば負けて終わり
-立ち向かう勇気は弱さ捨てる一歩さ
-たった一度の人生で
-誰かのためになりたくて
-だから戦うんだ
-この拳で　knock it down
-一瞬の命燃やせ　Burn up
-その未来(さき)憂(うれ)うな　Burn
-out
-刹那(せつな)に火花散らし
-焦がし尽くす魂
-この瞬間(いま)を駆け抜けてく
-One way
-戻らない覚悟の　Runway
-走った爪痕(つめあと)が
-伝説の始まり
-(Hey)ライダースに刻む絆
-背中に背負うプライド
-(Yeah)誰もが戸惑う
-日々に迷う無限の迷路
-毎日が奪い合い
-眼(め)を逸(そ)らせば失い
-失くした痛みが強さ磨いてくのさ
-永遠なんて続かない
-激動の雨は止まない
-全部守りたいんだ
-この拳で　knock it down
-一瞬の命燃やせ　Burn up
-その未来(さき)憂(うれ)うな　Burn
-out
-時には膝をつき　悔し涙流し
-この瞬間(いま)を駆け抜けてく
-One way
-戻らない覚悟の　Runway
-走った残像が静かに消えてく
-勝つことしか　拘(こだわ)らない
-それこそ男の宿命(カルマ)
-強いだけじゃ　そうなれない
-弱さを知り　本物になる
-一瞬の命燃やせ　Burn up
-その未来(さき)憂(うれ)うな　Burn
-out
-刹那(せつな)に火花散らし
-焦がし尽くす魂
-この瞬間(いま)を駆け抜けてく
-One way
-戻らない覚悟の　Runway
-走った爪痕(つめあと)が
-伝説の始まり
-一瞬の命燃やせ　Burn up
-その未来(さき)憂(うれ)うな　Burn
-out
-刹那(せつな)に火花散らし
-焦がし尽くす魂
-この瞬間(いま)を駆け抜けてく
-One way
-戻らない覚悟の　Runway
-走った爪痕(つめあと)が
-伝説の始まり
+```lrc
+[00:04.78] Yeah yeah, Yeah yeah,
+[00:09.45] Are you ready for this?
+[00:10.53] Everybody!
+[00:15.53] 
+[00:12.33] Yeah yeah, Yeah yeah,
+[00:16.38] All right
+[00:17.85] Everybody!
+[00:22.85] 
+[00:19.65] 偶然じゃない 重なり合った炎
+[00:23.57] 身体巡って 今
+[00:25.12] 目醒める本能
+[00:28.12] 
+[00:27.21] 間違ってない 手段は選ばない
+[00:29.71] 泣き言なんて NO WAY!
+[00:32.74] 掴め DESIRE
+[00:37.24] 
+[00:38.66] 研ぎ澄まされたWILD & TOUGH
+[00:40.52] (WILD & TOUGH IN MY HEART)
+[00:42.52] 熱く波打ち 騒ぎだす
+[00:47.52] 
+[00:49.53] JUST BURNING UP ON FIRE NOW
+[00:53.51] 惜しみなく 燃やし尽くして JUST BURNING UP
+[00:59.27] ON FIRE NOW 大空も大地も虜に
+[01:09.27] 
+[01:04.22] BURN! BURN! BURN! BURN!
+[01:06.24] かなぐり捨て BRAND NEW WORLD
+[01:09.43] (BRAND NEW WORLD)
+[01:11.68] BURN! BURN! BURN! BURN!
+[01:13.65] 握りしめた DESTINY
+[01:16.79] (DESTINY)
+[01:18.54] LET'S TRY
+[01:23.04] 
+[01:19.29] 絶対譲れない 変わることのない MY FAITH
+[01:30.87] 喰らいつく DREAM
+[01:32.68] 瞬く間もないくらい
+[01:37.18] 
+[01:34.58] 変幻自在 留まることなく
+[01:37.70] 会心の一撃で
+[01:39.73] 攻め込むDARK SIDE
+[01:46.23] 
+[01:41.87] 先が見えない WINDING ROAD
+[01:47.26] (TO THE SHINING PLACE)
+[01:49.56] 答え求めて 走るだけ
+[01:54.56] 
+[01:57.01] JUST BURNING UP ON FIRE NOW
+[02:00.84] 暗闇照らした炎 JUST BURNING UP
+[02:06.32] ON FIRE NOW 跡形なく焼き尽くして
+[02:17.32] 
+[02:11.77] BURN! BURN! BURN! BURN!
+[02:13.42] 迎え撃てば DESTROY
+[02:16.95] (DESTROY)
+[02:19.28] BURN! BURN! BURN! BURN!
+[02:21.03] 乗り越えてく DESTINY
+[02:24.69] (DESTINY)
+[02:29.19] 
+[02:26.96] Don't stop 加減なく
+[02:29.46] たたみ掛ける ATTACK
+[02:31.11] Keepin' on この先の
+[02:32.48] 世界をつかむまで
+[02:34.67] 一見 向こう見ずのFIGHTER
+[02:36.79] いつだってHIGHER AND HIGHER
+[02:38.31] 限界 砕いてBREAK IT ALL
+[02:40.00] 心意気をRAISE YOUR VOICE
+[02:50.00] 
+[02:42.02] Yeah yeah, Yeah yeah, Everybody!
+[03:05.49] Yeah yeah, Yeah yeah, Everybody!
+[03:21.49] 
+[03:14.16] JUST BURNING UP ON FIRE NOW
+[03:18.02] 惜しみなく 燃やし尽くして JUST BURNING UP
+[03:23.73] ON FIRE NOW 大空も大地も虜に
+[03:33.73] 
+[03:28.65] BURN! BURN! BURN! BURN!
+[03:30.50] かなぐり捨て BRAND NEW WORLD
+[03:33.91] (BRAND NEW WORLD)
+[03:36.34] BURN! BURN! BURN! BURN!
+[03:38.00] 握りしめた DESTINY
+[03:41.44] (DESTINY)
+[03:43.32] LET'S TRY
 ```
